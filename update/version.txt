@@ -1,3 +1,3 @@
-version=1.0.0
-url=https://github.com/niubicome-alt/tools/releases/download/v1.0.0/大强工具箱-v1.0.0.exe
-note=当前正式版本。
+version=1.0.1
+url=https://github.com/niubicome-alt/tools/releases/download/v1.0.1/大强工具箱-v1.0.1.exe
+note=升级到 v1.0.1。
