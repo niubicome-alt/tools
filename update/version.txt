@@ -1,3 +1,4 @@
-version=1.0.1
-url=https://github.com/niubicome-alt/tools/releases/download/v1.0.1/DaqiangToolbox-v1.0.1.exe
-note=升级到 v1.0.1。
+version=1.0.3
+url=https://github.com/niubicome-alt/tools/releases/download/v1.0.3/DaqiangToolbox-v1.0.3.exe
+sha256=90ee7a91ff2103ea72b50952065276b4d6d7953d769c2fa17034404b6eb05b71
+note=新增单实例运行保护，避免重复打开多个工具箱窗口。
