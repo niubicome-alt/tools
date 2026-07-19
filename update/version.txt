@@ -1,5 +1,6 @@
-version=1.0.5
-url=https://github.com/niubicome-alt/tools/releases/download/v1.0.5/DaqiangToolbox-v1.0.5.exe
-installer_url=https://github.com/niubicome-alt/tools/releases/download/v1.0.5/DQ.Boost.Pro1.0.5.Setup.exe
-sha256=c499c7efc113fe1ad148a71097c6d849a73348687fac115e8fb01506b6ec4be2
-note=升级自启动项识别与安全清理，完善多开管理布局、Guardian资源展示、CPU进程优化和内存清理稳定性。
+version=1.0.6
+url=https://github.com/niubicome-alt/tools/releases/download/v1.0.6/DaqiangToolbox-v1.0.6.exe
+installer_url=https://github.com/niubicome-alt/tools/releases/download/v1.0.6/DQ.Boost.Pro1.0.6.Setup.exe
+sha256=bac1181ae29d39c908485e09f42705d1bc0ee5310ca4c90d7b014ad3ccef7809
+installer_sha256=8af45a09e89d678bff018ea4d3190937b5034cdc41273d3bc944e63e0cb7246d
+note=新增安装包在线更新流程，下载并校验完成后由用户确认启动安装；保留旧版主程序更新兼容通道。
