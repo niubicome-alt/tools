@@ -1,6 +1,6 @@
-version=1.0.7
-url=https://github.com/niubicome-alt/tools/releases/download/v1.0.7/DaqiangToolbox-v1.0.7.exe
-installer_url=https://github.com/niubicome-alt/tools/releases/download/v1.0.7/DQ.Boost.Pro1.0.7.Setup.exe
-sha256=cff69c99fe6a640f2ea3c43a7d9daff332e5f4980fae927102dadfc4da364626
-installer_sha256=031190ddf3bf0e06cc944f73a165a11240b99cfcd0ea06802ce8c481751ff233
-note=新增标题栏使用倒计时：试用版显示试用剩余天数，续费版显示软件剩余时长；下载并校验安装包后提示用户确认安装。
+version=1.0.8
+url=https://github.com/niubicome-alt/tools/releases/download/v1.0.8/DaqiangToolbox-v1.0.8.exe
+installer_url=https://github.com/niubicome-alt/tools/releases/download/v1.0.8/DQ.Boost.Pro1.0.8.Setup.exe
+sha256=df02f6705290b67a1e5c6fcd651c36ed967311bcf727ed054e354fcc72d2d893
+installer_sha256=673f5a58ee7303d06650d5e5a2111e3b22becaaff48c0324419ad8239904fd32
+note=修复内存超过50%提醒后执行清理时出现两个结果窗口的问题，只保留多开守护的一次最终结果提示。
