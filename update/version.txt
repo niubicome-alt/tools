@@ -1,6 +1,6 @@
-version=1.0.8
-url=https://github.com/niubicome-alt/tools/releases/download/v1.0.8/DaqiangToolbox-v1.0.8.exe
-installer_url=https://github.com/niubicome-alt/tools/releases/download/v1.0.8/DQ.Boost.Pro1.0.8.Setup.exe
-sha256=df02f6705290b67a1e5c6fcd651c36ed967311bcf727ed054e354fcc72d2d893
-installer_sha256=673f5a58ee7303d06650d5e5a2111e3b22becaaff48c0324419ad8239904fd32
-note=修复内存超过50%提醒后执行清理时出现两个结果窗口的问题，只保留多开守护的一次最终结果提示。
+version=1.1.10
+url=https://github.com/niubicome-alt/tools/releases/download/v1.1.10/DaqiangToolbox-v1.1.10.exe
+installer_url=https://github.com/niubicome-alt/tools/releases/download/v1.1.10/DQ.Boost.Pro1.1.10.Setup.exe
+sha256=9938ea74ef6bc1b323a25655ad39efab0129f92052fbeb07c8f75796330b98bb
+installer_sha256=3eb160f6c6d64e0c7cff208e23592b59e94ec4d192eab63e377b59c5acf75f7a
+note=多开守护 v1.1.10 正式发布，优化系统清理、内存与 CPU 管理、多开软件检测和界面交互，并修复部分点击后白屏问题。
