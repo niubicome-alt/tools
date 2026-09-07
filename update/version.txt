@@ -1,6 +1,6 @@
-version=1.1.11
-url=https://github.com/niubicome-alt/tools/releases/download/v1.1.11/MultiGuard-v1.1.11.exe
-installer_url=https://github.com/niubicome-alt/tools/releases/download/v1.1.11/MultiGuard-v1.1.11-Setup.exe
-sha256=39928BAFC250D7DA51F08E2939699464C76150466AB20CE23A975573F4FDE6A0
-installer_sha256=4C1CB64DC13C561279A04F784B32A1C2067D7866B689AA0EAC9CCE784542A39D
-note=多开守护 v1.1.11：修复多功能球双击不能清理和拖动失效；清理期间保持能量球可见。
+version=1.1.12
+url=https://github.com/niubicome-alt/tools/releases/download/v1.1.12/MultiGuard-v1.1.12.exe
+installer_url=https://github.com/niubicome-alt/tools/releases/download/v1.1.12/MultiGuard-v1.1.12-Setup.exe
+sha256=C8206A26D80DF09E6711F66469A328313C96B8BC856B00EB4CCC22CDC7F6742F
+installer_sha256=B19DC47CF41C66D7534B9F883593CBF01B670241497A8F31051DD5C083B5802A
+note=多开守护 v1.1.12：设置页更新与授权、任务日志改为独立窗口；激活页在当前窗口内切换；自动更新支持后台下载、校验和静默安装。
