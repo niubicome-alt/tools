@@ -1,6 +1,6 @@
-version=1.1.10
-url=https://github.com/niubicome-alt/tools/releases/download/v1.1.10/DaqiangToolbox-v1.1.10.exe
-installer_url=https://github.com/niubicome-alt/tools/releases/download/v1.1.10/DQ.Boost.Pro1.1.10.Setup.exe
-sha256=9824299167549ce6e31381a5dd4a51647f9dc93143040568e44c7c4216c2fcec
-installer_sha256=4f3cfc975863024b2bdf9f144b43a58994f0fbb6e303b7d5767f2a8ec4fae234
-note=多开守护 v1.1.10 正式发布，修复内存实际释放成功但因 Mem Reduct 返回码 575 被误判为失败的问题，并优化系统清理、CPU 管理、多开检测与界面交互。
+version=1.1.11
+url=https://github.com/niubicome-alt/tools/releases/download/v1.1.11/%E5%A4%9A%E5%BC%80%E5%AE%88%E6%8A%A41.1.11.exe
+installer_url=https://github.com/niubicome-alt/tools/releases/download/v1.1.11/%E5%A4%9A%E5%BC%80%E5%AE%88%E6%8A%A41.1.11-%E5%9C%A8%E7%BA%BF%E5%AE%89%E8%A3%85%E5%8C%85.exe
+sha256=B032C89BEBECF6FAFB208A00F795D9080B17DE124B84A5CB0DEE1A7B581EF4B6
+installer_sha256=36F32BC2F6D4BFFC43C3F66DD1065D537EF4A27D589C9A032A353D83737EE96E
+note=多开守护 v1.1.11：上线中文安装包；在线更新将在下载和 SHA-256 校验完成后自动打开安装程序。
