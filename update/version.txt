@@ -1,6 +1,6 @@
 version=1.1.11
-url=https://github.com/niubicome-alt/tools/releases/download/v1.1.11/DaqiangToolbox-v1.1.11.exe
-installer_url=https://github.com/niubicome-alt/tools/releases/download/v1.1.11/DQ.Boost.Pro1.1.11.Setup.exe
-sha256=B032C89BEBECF6FAFB208A00F795D9080B17DE124B84A5CB0DEE1A7B581EF4B6
-installer_sha256=36F32BC2F6D4BFFC43C3F66DD1065D537EF4A27D589C9A032A353D83737EE96E
-note=多开守护 v1.1.11：上线中文安装包；在线更新将在下载和 SHA-256 校验完成后自动打开安装程序。
+url=https://github.com/niubicome-alt/tools/releases/download/v1.1.11/MultiGuard-v1.1.11.exe
+installer_url=https://github.com/niubicome-alt/tools/releases/download/v1.1.11/MultiGuard-v1.1.11-Setup.exe
+sha256=39928BAFC250D7DA51F08E2939699464C76150466AB20CE23A975573F4FDE6A0
+installer_sha256=4C1CB64DC13C561279A04F784B32A1C2067D7866B689AA0EAC9CCE784542A39D
+note=多开守护 v1.1.11：修复多功能球双击不能清理和拖动失效；清理期间保持能量球可见。
